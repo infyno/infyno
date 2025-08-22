@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/badge/🌐-Website-blue)](https://infyno.de)  
 [![Invite](https://img.shields.io/badge/🤖-Invite-brightgreen)](https://infyno.de/add)  
-[![Top.gg](https://img.shields.io/badge/⭐-Top.gg-orange)](htttps://infyno.de/top)  
 
 **Infyno** ist ein leistungsstarker Economy-Bot für Discord, der deinen Server mit einem interaktiven Wirtschaftssystem bereichert.  
 
